@@ -1,0 +1,21 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/student/gruppe2-milepal5/target/scala-2.11/gruppe2_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkConsoleApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkConsoleApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkConsoleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkConsoleApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkReadToPARQUET$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkReadToPARQUET$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkLoadPARQUETAGG$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkLoadPARQUETAGG$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkReadToPARQUET.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkReadToPARQUET.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkLoadPARQUETAGG$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkLoadPARQUETAGG$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkConsoleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkConsoleApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkLoadPARQUETAGG.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkLoadPARQUETAGG.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SparkReadToPARQUET$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/student/gruppe2-milepal5/target/scala-2.11/classes/SparkReadToPARQUET$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
